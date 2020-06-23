@@ -2,6 +2,7 @@
 ![LogoImg](https://github.com/asimokby/PDelivery/blob/master/FrontEnd_ReactJS/src/Imgs/logo-0.png)
 
 #### PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! Delivery, done Personally.
+##### For a detailed overview of how the application works, what we used, and even the sql quereies we wrote, please consider reading the Final report we included.
 
 ##### Landing Page: 
 ![Landing](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.43.35.png)
@@ -37,7 +38,6 @@
 ![Shipments](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.42.32.png)
 ![Trips](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.06.58.png)
 
-
 ##### Requests: 
 
 ![RequestPage](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.25.15.png)
@@ -52,13 +52,12 @@
 ![ReviewPage](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.36.46.png)
 
 
-#### Try it yourself
+### Try it yourself
 - Clone the repository. 
 - Run your MySQL server: `mysql.server start`. 
 - Open the file in the Backend called utilities.py to provide your database's name and password. 
 - Now, go on and run the 2 servers app.py and chatApp.py.  (You may need to install the requirements first) 
 - Finally, run the react app. Open a terminal at the folder "FrontEnd_ReactJS" and run `npm start`. (You may need to run `npm install` first)
-
 
 
 #### Thank you!
