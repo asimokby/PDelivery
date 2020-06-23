@@ -1,7 +1,7 @@
 
 ![LogoImg](https://github.com/asimokby/PDelivery/blob/master/FrontEnd_ReactJS/src/Imgs/logo-0.png)
 # PDelivery
-PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! 
+PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! Delivery, done Personally.
 
 
 ### Screenshots
@@ -10,59 +10,41 @@ PDelivery is a tool that connects shoppers with travelers. Shop anywhere around 
 ![UserProfile](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.58.02.png)
 
 - The user may create a Trip:
-
-- The user can then display his trips in his profile:
-
+![TripDialog](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.50.49.png)
 
 - The user may create a shipment:
+![ShipmentDialog](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2014.14.34.png)
 
-
-- Then view it on his profile as with the trip:
 - also, a user could display the details of the shipment:
+![ShipmentDetails](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.46.13.png)
+
+### A user may go on search for a trip or a shipment
+
+- some suggested trips or shipments will be displayed even before a user searches for anything:
+
+![Suggested](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.55.29.png)
 
 
-- A user may go on search for a trip or a shipment, but before this
-
-### some suggested trips or shipments will be displayed:
+- Then, the user may send a request. Before this the user will be asked to create a shipment if it is a trip and create a trip otherwise:
 
 
-- If the user wishes to search for a specific trip or shipment:
+### Shipments and Trips of a given user: 
+
+![Shipments](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.42.32.png)
+![Trips](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.06.58.png)
 
 
-- Then, the user may send a request. Before this the user will be
+### Requests: 
 
-### asked to create a shipment if it is a trip and create a trip otherwise:
+![RequestPage](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.25.15.png)
 
-- When done, the user will be able to view the requests in his/her
-
-### profile.
-
-
-- The other person will be able then to view the details of the request,
-
-### and decline or accept.
-
-- When the other person accepts the request, it is moved to the
-
-### accepted requests tab.
+#### How Requests work: 
+- When a user sends a request to another user. That request goes to the pending tab. If the user accepts that request, the request is then moved to the accepted tab and the **Contact info of both users will be shown**
+![ContactInfo](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.31.52.png)
 
 
-- Now, if the user clicks on Details of an accepted request, the
+### Reviews:
 
-### contact information of the other person is displayed.
-
-- Finally, when the deal is completed, the request will be moved to
-
-### the Done tab, and both users will be able to review each other.
+![ReviewPage](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.40.04.png)
 
 
-- Then the review will be displayed on the user’s profile, and the
-
-### user’s rating will be affected.
-
-- Users may also display other users’ profiles.
-
-
-- Finally, the users may participate in a community chat.
-
-# Thank you for reading!
