@@ -1,13 +1,11 @@
 import mysql.connector
 # database conncetion
 db = mysql.connector.connect(
+    # Enter your database info 
     host="localhost",
     user="root",
-    # khaled's pass
-    # passwd="MTSyld45",
-    # Asem's pass
-    passwd= 'sql123',
-    database="pdelivery"
+    passwd= 'password', 
+    database="name" 
 )
 db.autocommit = True
 cursor = db.cursor(buffered=True)
