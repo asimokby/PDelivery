@@ -1,28 +1,28 @@
 
 ![LogoImg](https://github.com/asimokby/PDelivery/blob/master/FrontEnd_ReactJS/src/Imgs/logo-0.png)
 
-##### PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! Delivery, done Personally.
+#### PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! Delivery, done Personally.
 
-### Landing Page: 
+##### Landing Page: 
 ![Landing](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.43.35.png)
 
-- The user’s profile:
+##### The user’s profile:
 
 ![UserProfile](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.58.02.png)
 
-- The user may create a Trip:
+##### The user may create a Trip:
 
 ![TripDialog](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.50.49.png)
 
-- The user may create a shipment:
+##### The user may create a shipment:
 
 ![ShipmentDialog](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2014.14.34.png)
 
-- The user could display the details of the shipment:
+##### The user could display the details of the shipment:
 
 ![ShipmentDetails](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.46.13.png)
 
-### A user may go on search for a trip or a shipment
+##### A user may go on search for a trip or a shipment
 
 - some suggested trips or shipments will be displayed even before a user searches for anything:
 
@@ -32,23 +32,23 @@
 - Then, the user may send a request. Before this the user will be asked to create a shipment if it is a trip and create a trip otherwise:
 
 
-### Shipments and Trips of a given user: 
+##### Shipments and Trips of a given user: 
 
 ![Shipments](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.42.32.png)
 ![Trips](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.06.58.png)
 
 
-### Requests: 
+##### Requests: 
 
 ![RequestPage](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.25.15.png)
 
-#### How Requests work: 
+##### How Requests work: 
 - When a user sends a request to another user. That request goes to the pending tab. If the user accepts that request, the request is then moved to the accepted tab and the **Contact info of both users will be shown**
 
 ![ContactInfo](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.31.52.png)
 
 
-### Reviews:
+##### Reviews:
 
 ![ReviewPage](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.36.46.png)
 
