@@ -1,8 +1,10 @@
+
+![LogoImg](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.43.35.png)
 # PDelivery
-PDelivery is website that helps people deliver items on their way for a reward, or ship items somewhere. Delivery Done Personally.
+PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! 
 
 
-### Features
+### Screenshots of Website
 
 - **SignUp** : Here we sign up a user, then log in the newly created user.
 
