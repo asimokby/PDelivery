@@ -1,18 +1,16 @@
 
-![LogoImg](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.43.35.png)
+![LogoImg](https://github.com/asimokby/PDelivery/blob/master/FrontEnd_ReactJS/src/Imgs/logo-0.png)
 # PDelivery
 PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! 
 
 
-### Screenshots of Website
+### Screenshots
 
-- **SignUp** : Here we sign up a user, then log in the newly created user.
-
-- The user’s profile looks like the following:
-- The user may update his information or his profile picture:
-
+- The user’s profile looks like the following.
+![UserProfile](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.58.02.png)
 
 - The user may create a Trip:
+
 - The user can then display his trips in his profile:
 
 
