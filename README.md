@@ -1,21 +1,25 @@
 
 ![LogoImg](https://github.com/asimokby/PDelivery/blob/master/FrontEnd_ReactJS/src/Imgs/logo-0.png)
-# PDelivery
-PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! Delivery, done Personally.
 
+##### PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! Delivery, done Personally.
 
-### Screenshots
+### Landing Page: 
+![Landing](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.43.35.png)
 
-- The user’s profile looks like the following.
+- The user’s profile:
+
 ![UserProfile](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.58.02.png)
 
 - The user may create a Trip:
+
 ![TripDialog](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.50.49.png)
 
 - The user may create a shipment:
+
 ![ShipmentDialog](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2014.14.34.png)
 
-- also, a user could display the details of the shipment:
+- The user could display the details of the shipment:
+
 ![ShipmentDetails](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2015.46.13.png)
 
 ### A user may go on search for a trip or a shipment
@@ -40,11 +44,12 @@ PDelivery is a tool that connects shoppers with travelers. Shop anywhere around 
 
 #### How Requests work: 
 - When a user sends a request to another user. That request goes to the pending tab. If the user accepts that request, the request is then moved to the accepted tab and the **Contact info of both users will be shown**
+
 ![ContactInfo](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.31.52.png)
 
 
 ### Reviews:
 
-![ReviewPage](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.40.04.png)
+![ReviewPage](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.36.46.png)
 
 
