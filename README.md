@@ -1,5 +1,5 @@
 
-[LogoImg](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.43.35.png)
+![LogoImg](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2013.43.35.png)
 # PDelivery
 PDelivery is a tool that connects shoppers with travelers. Shop anywhere around the world from the comfort of your home! 
 
