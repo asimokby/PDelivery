@@ -1,0 +1,19 @@
+.column {
+  float: left;
+  width: 26%;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.reqHeader {
+    text-align: center;
+    /* background-color: #3ac569; */
+    font-size: large;
+    /* background-size: 20% 20%; */
+}
