@@ -47,9 +47,19 @@
 
 ![ContactInfo](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.31.52.png)
 
-
 ##### Reviews:
 
 ![ReviewPage](https://github.com/asimokby/PDelivery/blob/master/screenshots/Screen%20Shot%202020-05-30%20at%2016.36.46.png)
 
 
+#### Try it yourself
+- Clone the repository. 
+- Run your MySQL server: `mysql.server start`. 
+- Open the file in the Backend called utilities.py to provide your database's name and password. 
+- Now, go on and run the 2 servers app.py and chatApp.py.  (You may need to install the requirements first) 
+- Finally, run the react app. Open a terminal at the folder "FrontEnd_ReactJS" and run `npm start`. (You may need to run `npm install` first)
+
+
+
+#### Thank you!
+- Asem, Khaled.
